@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component solution
+# Frontend Mentor - QR code component solution
 
 Esta é uma solução [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
