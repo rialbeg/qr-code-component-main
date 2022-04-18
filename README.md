@@ -22,8 +22,8 @@ Esta é uma solução [QR code component challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL:(https://github.com/rialbeg/interactive-rating-component)
-- Live Site URL: (https://rialbeg.github.io/interactive-rating-component/)
+- Solution URL:(https://github.com/rialbeg/qr-code-component-main)
+- Live Site URL: (https://rialbeg.github.io/qr-code-component-main/)
 
 ## Meu processo
 
